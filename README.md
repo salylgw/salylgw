@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salylgw
 - 👀 I’m interested in AI, Math, Computing, Technology, Semiconductors, Embedded Systems, Genetic Engineering, Finance etc. 
-- 🌱 I’m currently learning Deep Learning and Flutter.
+- 🌱 I’m currently learning Deep Learning and Flutter/Dart.
 - 💞️ I’m looking to collaborate on several of my proof-of-concept projects that solve problems using Math and AI.
   * First of these is [SPOT](https://github.com/salylgw/gammath_spot) -- a Stock Price-Opining Toolset.
 - 💞️ I'm a multilingual engineer. I mean, I've used many programming languages (C, C++, Assembly, Verilog, System Verilog, Perl, Python, Rust etc.) in my professional career.
